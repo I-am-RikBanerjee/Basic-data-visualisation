@@ -16,4 +16,4 @@ I will share various plots with you like
 
 
 A)distribution.ipynb--->StudentPerformance.csv(you have to rename the file "StudentPerformance.csv->student_result.csv)
-B)suicide.ipynb--->suicidedata.csv
+B)suicide.ipynb--->suicidedataset.csv
