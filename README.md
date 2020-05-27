@@ -13,3 +13,6 @@ I will share various plots with you like
 8.factorplot
 9.distplot
 10.catplot
+
+
+A)istribution.ipynb--->Student_performance
