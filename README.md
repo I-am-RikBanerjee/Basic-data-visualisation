@@ -15,4 +15,4 @@ I will share various plots with you like
 10.catplot
 
 
-A)istribution.ipynb--->Student_performance
+A)distribution.ipynb--->StudentPerformance.csv(you have to rename the file "StudentPerformance.csv->student_result.csv)
